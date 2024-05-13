@@ -17,6 +17,8 @@
 - rafce, rafc : 임포트등을 자동으로 만들어지는 단축키
 - `npm start` : 
 
+`npm run build`
+
 ## 사용 스택
 - node.js 설치
 
